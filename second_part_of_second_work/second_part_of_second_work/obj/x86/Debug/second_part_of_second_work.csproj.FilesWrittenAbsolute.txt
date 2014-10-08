@@ -1,0 +1,5 @@
+/Users/ivan/Projects/second_part_of_second_work/second_part_of_second_work/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ivan/Projects/second_part_of_second_work/second_part_of_second_work/bin/Debug/second_part_of_second_work.exe.mdb
+/Users/ivan/Projects/second_part_of_second_work/second_part_of_second_work/bin/Debug/second_part_of_second_work.exe
+/Users/ivan/Projects/second_part_of_second_work/second_part_of_second_work/obj/x86/Debug/second_part_of_second_work.exe
+/Users/ivan/Projects/second_part_of_second_work/second_part_of_second_work/obj/x86/Debug/second_part_of_second_work.exe.mdb

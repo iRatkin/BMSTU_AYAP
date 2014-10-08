@@ -1,0 +1,5 @@
+/Users/ivan/Projects/random_generation/random_generation/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ivan/Projects/random_generation/random_generation/bin/Debug/random_generation.exe.mdb
+/Users/ivan/Projects/random_generation/random_generation/bin/Debug/random_generation.exe
+/Users/ivan/Projects/random_generation/random_generation/obj/x86/Debug/random_generation.exe
+/Users/ivan/Projects/random_generation/random_generation/obj/x86/Debug/random_generation.exe.mdb

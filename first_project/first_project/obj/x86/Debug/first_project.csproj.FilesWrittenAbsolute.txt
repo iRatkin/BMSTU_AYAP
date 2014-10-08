@@ -1,0 +1,5 @@
+/Users/ivan/Projects/first_project/first_project/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ivan/Projects/first_project/first_project/bin/Debug/first_project.exe.mdb
+/Users/ivan/Projects/first_project/first_project/bin/Debug/first_project.exe
+/Users/ivan/Projects/first_project/first_project/obj/x86/Debug/first_project.exe
+/Users/ivan/Projects/first_project/first_project/obj/x86/Debug/first_project.exe.mdb

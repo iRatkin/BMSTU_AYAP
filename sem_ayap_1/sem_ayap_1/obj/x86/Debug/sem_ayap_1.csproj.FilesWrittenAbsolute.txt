@@ -1,0 +1,5 @@
+/Users/ivan/Projects/sem_ayap_1/sem_ayap_1/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/ivan/Projects/sem_ayap_1/sem_ayap_1/bin/Debug/sem_ayap_1.exe.mdb
+/Users/ivan/Projects/sem_ayap_1/sem_ayap_1/bin/Debug/sem_ayap_1.exe
+/Users/ivan/Projects/sem_ayap_1/sem_ayap_1/obj/x86/Debug/sem_ayap_1.exe
+/Users/ivan/Projects/sem_ayap_1/sem_ayap_1/obj/x86/Debug/sem_ayap_1.exe.mdb
